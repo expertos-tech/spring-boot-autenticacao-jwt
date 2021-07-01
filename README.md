@@ -20,7 +20,7 @@ Se você quiser saber pra que serve um token JWT e como fazer a implementação 
 JWT quer dizer JSON web token, definido no padrão RFC-7519, e é usado para armazenar e transferir de forma segura objetos JSON compactados entre duas partes. 
 
 Será usado como base para o tutorial: Como criar um token JWT com Spring Boot, Spring Security e JPA.<br>
-Projeto basee a: https://github.com/expertos-tech/inicial-spring-boot-autenticacao-jwt
+Projeto base: https://github.com/expertos-tech/inicial-spring-boot-autenticacao-jwt
 
 
 Redes Sociais: https://linktr.ee/expertostech
